@@ -1,4 +1,4 @@
-package DAY2;
+package DAY02;
 
 public class FOR_LOOP {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package DAY1;
+package DAY01;
 public class one {
     // RSA
     public static int findMin(int[] nums){
