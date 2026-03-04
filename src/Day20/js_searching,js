@@ -1,0 +1,14 @@
+let arr = ["a","b","n","d","k","e","d","y","u"];
+console.log(arr.indexOf("d"));
+
+console.log(arr.lastIndexOf("d"));
+
+let people = [
+  { "name": "Aarav", "age": 21 },
+  { "name": "Neha", "age": 19 },
+  { "name": "Rohan", "age": 24 },
+  { "name": "Simran", "age": 22 },
+  { "name": "Kunal", "age": 26 }
+]
+
+console.log(people.findIndex(item=>item.age===22));
